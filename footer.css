@@ -1,0 +1,15 @@
+
+.bottom-footer *{
+margin:20px;
+font-size: 20px;
+color: black;
+background:#f0f2f5;
+
+}
+.right-side{
+    float:right;
+}
+.nepal{
+    background-color:#e7ebf0;
+    height:60px;
+}

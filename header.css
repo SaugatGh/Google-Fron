@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.images {
+  float: right;
+}
+
+.images-gmail * {
+  margin: 15px;
+  color: black;
+}
+.gmail {
+  float: right;
+}
+.orochi {
+  height: 32px;
+  width: 42px;
+  border-radius: 15px;
+  float: right;
+  margin-left: 20px;
+  padding-top: 15px;
+  margin-right: 20px;
+  border-radius:50%;
+}
+
+ .google_icon{
+    height:32px;
+    width:42px;
+    border-radius:30px;
+    float:right;
+    margin-left:15px;
+    padding-top:15px;
+    border-radius:50%;
+}
+.google_icon:hover{
+    height:32px;
+    width:42px;
+    border-radius:30px;
+    float:right;
+    margin-left:15px;
+    padding-top:15px;
+}
+
